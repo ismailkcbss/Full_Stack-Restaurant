@@ -127,5 +127,5 @@ To learn NestJS, check out the [NestJS documentation](https://docs.nestjs.com/)<
 To learn PostgreSQL, check out the [PostgreSQL documantation](https://www.postgresql.org/docs/14/intro-whatis.html) <br/>
 
 ## License
-Notebook application is [MIT licensed](LICENSE).
+MyRestaurant application is [MIT licensed](LICENSE).
 
