@@ -115,13 +115,16 @@ Click here to download the [PostgreSQL application](https://www.postgresql.org/d
 
 ![ResOwner](https://firebasestorage.googleapis.com/v0/b/shopplace-41632.appspot.com/o/Githup%2FRestaurantSahibiMenu.jpg?alt=media&token=81cff58c-7aec-4bc6-82d2-aaef64e31d49&_gl=1*g3cr63*_ga*MTc4OTQzODUwNy4xNjk0Nzk3MzI5*_ga_CW55HF8NVT*MTY5Nzg4NDU4OC4yNS4xLjE2OTc4ODQ2OTQuMjMuMC4w)
 
+## Stay in touch
+- E-Mail [ismailcankocabas@gmail.com](ismailcankocabas@gmail.com)
+- LinkedIn [@ismailkcbss](https://www.linkedin.com/in/ismailkcbss/)
 
 ## Learn more
 
 You can learn more in the [Create React App documentation](https://create-react-app.dev/docs/getting-started/) <br/>
-To learn React, check out the [React documentation](https://react.dev/)<br/>
-To learn Express, check out the [Express documentation](https://expressjs.com/)<br/>
-To learn MongoDB, check out the [MongoDB Nodejs documantation](https://www.mongodb.com/docs/drivers/node/current/) <br/>
+To learn ReactJS, check out the [React documentation](https://react.dev/)<br/>
+To learn NestJS, check out the [NestJS documentation](https://docs.nestjs.com/)<br/>
+To learn PostgreSQL, check out the [PostgreSQL documantation](https://www.postgresql.org/docs/14/intro-whatis.html) <br/>
 
 ## License
 Notebook application is [MIT licensed](LICENSE).
