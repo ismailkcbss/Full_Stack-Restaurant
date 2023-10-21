@@ -24,7 +24,7 @@ After cloning the project to your computer, you need to open the command prompt 
 
 - ### Frontend Installation
 
-Open the **frontend ** folder in the downloaded directory and click the folder path above the directory to run the *command prompt * and run the command client using this path.  Then, type the following command to upload the *node modules * folder to the directory
+Open the **frontend** folder in the downloaded directory and click the folder path above the directory to run the *command prompt* and run the command client using this path.  Then, type the following command to upload the *node modules* folder to the directory
 
 ```bash
 $ npm install
@@ -55,7 +55,7 @@ Writing this will assist you in downloading the package.
 
 - ### Backend Installation 
 
-Open the 'backend' folder in the downloaded directory and click the folder path above the directory to run the command prompt and run this path in the command client. Then, type the following command to load the **node-modules** folder into the directory
+Open the **backend** folder in the downloaded directory and click the folder path above the directory to run the command prompt and run this path in the command client. Then, type the following command to load the *node-modules* folder into the directory
 
 ```bash
 $ npm install
